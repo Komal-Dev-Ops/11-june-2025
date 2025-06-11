@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-milvus
+langchain-ollama
+pymilvus
+sentence-transformers
+huggingface-hub
+langdetect
+ollama
+pdfminer.six
+python-docx
+torch
+pypdf
+
